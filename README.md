@@ -1,1 +1,2 @@
-# Java programs
+# Java projects
+
